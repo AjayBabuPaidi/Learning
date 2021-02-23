@@ -1,3 +1,5 @@
+  /* Example problem from codecademy javascript course*/
+
 // function to determine hours of sleep for a given day
 let getSleepHours = day =>{
     day = day.toLowerCase();
