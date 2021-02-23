@@ -1,3 +1,5 @@
+  /* Example problem from codecademy javascript course*/
+
 // function for users choice
 const getUserChoice = (userInput) =>{
     userInput = userInput.toLowerCase();
